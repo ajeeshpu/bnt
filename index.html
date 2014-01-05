@@ -280,5 +280,26 @@
 
     <script src="assets/javascript/jquery-1.10.2.min.js"></script>
     <script src="assets/javascript/bootstrap.min.js"></script>
+    <script>
+        var idOfUserShown=0;
+        function changeImage(){
+            var width=$('.sfp-navbar-top').width();
+            $('.item').css("max-width",width+"px");
+            $('.item').css("overflow-x",'hidden');
+
+            $('.item').height(500);
+            $('.item').width(width);
+
+        }
+        $(document).ready(
+                function(){
+                    changeImage();
+                    $(window).on("load resize", changeImage);
+
+
+
+                }
+        )
+    </script>
   </body>
 </html>

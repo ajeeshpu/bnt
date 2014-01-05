@@ -3675,7 +3675,7 @@ input[type="button"].btn-block {
 
 .dropdown-menu > li > a:hover,
 .dropdown-menu > li > a:focus {
-    color: #ffffff;
+    color: #869690;
     text-decoration: none;
     background-color: #2c3e50;
 }
@@ -3683,7 +3683,7 @@ input[type="button"].btn-block {
 .dropdown-menu > .active > a,
 .dropdown-menu > .active > a:hover,
 .dropdown-menu > .active > a:focus {
-    color: #ffffff;
+    color: #869690;
     text-decoration: none;
     background-color: #2c3e50;
     outline: 0;
@@ -5061,7 +5061,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 
 @media (max-width: 767px) {
     .navbar-default .navbar-nav .open .dropdown-menu > li > a {
-        color: #ffffff;
+        color: #869690;
     }
     .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
     .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
