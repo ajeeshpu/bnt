@@ -1,4 +1,6 @@
-
+margin-top-40{
+    margin-top:40px;
+}
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
 
@@ -13,7 +15,9 @@
 
 /* Declare heights because of positioning of img element */
 .carousel .item {
-    height: 700px;
+    margin-top:50px;
+
+    height: 500px;
     background-color:#bbb;
 }
 .carousel img {
@@ -21,7 +25,7 @@
     top: 0;
     left: 0;
     min-width: 100%;
-    height: 700px;
+    height: 500px;
 }
 
 
