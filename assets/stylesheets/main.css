@@ -86,7 +86,9 @@ margin-top-40{
 .margin-top-50{
     margin-top: 50px;
 }
-
+.img-logo{
+    padding-right: 10px;
+}
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
