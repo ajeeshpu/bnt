@@ -83,7 +83,9 @@ margin-top-40{
     line-height: 1;
     letter-spacing: -1px;
 }
-
+.margin-top-50{
+    margin-top: 50px;
+}
 
 
 /* RESPONSIVE CSS
