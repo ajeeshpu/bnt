@@ -89,6 +89,9 @@ margin-top-40{
 .img-logo{
     padding-right: 10px;
 }
+a.navbar-brand{
+    height:20px;
+}
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
